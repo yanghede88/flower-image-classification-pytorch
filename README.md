@@ -1,2 +1,7 @@
-# flower-image-classification-pytorch
-End-to-end flower image classification with PyTorch, covering training, fine-tuning, and inference on real-world images
+## Flower Classification with Transfer Learning
+
+- Dataset: 102-class flower dataset
+- Model: ResNet152 (PyTorch)
+- Techniques: transfer learning, freeze/unfreeze, LR scheduling
+- Evaluation: validation accuracy and test inference
+- Status: end-to-end inference demo in progress
